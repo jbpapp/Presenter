@@ -1,5 +1,5 @@
 {
-    "name": "laracasts/presenter",
+    "name": "jpapp/presenter",
     "description": "Simple view presenters",
     "keywords": [
         "presenter",
@@ -11,7 +11,11 @@
         {
             "name": "Jeffrey Way",
             "email": "jeffrey@laracasts.com"
-        }
+        },
+        {
+            "name": "Janos Papp",
+            "email": "janos.papp2@gmail.com"
+        },        
     ],
     "require": {
         "php": ">=5.4.0",
