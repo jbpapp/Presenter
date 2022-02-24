@@ -15,7 +15,7 @@
         {
             "name": "Janos Papp",
             "email": "janos.papp2@gmail.com"
-        },        
+        }        
     ],
     "require": {
         "php": ">=5.4.0",
